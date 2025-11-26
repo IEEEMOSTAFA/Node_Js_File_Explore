@@ -1,0 +1,24 @@
+{
+  "name": "node_js_explore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "delete-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IEEEMOSTAFA/Node_Js_File_Explore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IEEEMOSTAFA/Node_Js_File_Explore/issues"
+  },
+  "homepage": "https://github.com/IEEEMOSTAFA/Node_Js_File_Explore#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
